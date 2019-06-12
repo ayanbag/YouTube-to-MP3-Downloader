@@ -3,13 +3,6 @@
 
 
 <h1 align="center">
-    <sub>
-        <img
-            src="https://raw.githubusercontent.com/ayanbag/Youtube-To-MP3-Downloader/blob/master/download.png
-            width="38"
-            height="38">
-        </img>
-    </sub>
     Youtube to MP3 Downloader
 </h1>
 
