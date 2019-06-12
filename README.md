@@ -6,6 +6,6 @@
     Youtube to MP3 Downloader
 </h1>
 
-A website to download and convert youtube videos to mp3
+A web application to download and convert youtube videos to mp3
 
 Active Site Link :  http://bit.ly/youtubedwl
