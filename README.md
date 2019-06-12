@@ -1,7 +1,7 @@
 <h1 align="center">
     <sub>
         <img
-            src="https://raw.githubusercontent.com/ayanbag/Youtube-To-MP3-Downloader/master/static/images/icons/download.png
+            src="https://raw.githubusercontent.com/ayanbag/Youtube-To-MP3-Downloader/master/download.png
             width="38"
             height="38">
         </img>
